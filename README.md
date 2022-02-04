@@ -75,7 +75,7 @@ npm run deploy      # deploy to server
 <br>
 <!-- DEVELOPMENT //////////////////// -->
 
-### _Development_
+### :arrow_right: Development
 
 Start the development server to see changes immediately as you code.
 
@@ -85,7 +85,7 @@ npm run dev
 
 <!-- TESTING //////////////////////// -->
 
-### _Testing_
+### :arrow_right: Testing
 
 Run the available test suits to get a full coverage report.
 
@@ -95,7 +95,7 @@ npm run test
 
 <!-- BUILDING /////////////////////// -->
 
-### _Building_
+### :arrow_right: Building
 
 Build the application to deploy on production server.
 
@@ -105,7 +105,7 @@ npm run build
 
 <!-- DEPLOYMENT ///////////////////// -->
 
-### _Deployment_
+### :arrow_right: Deployment
 
 Deploy the built application to the production server.
 
