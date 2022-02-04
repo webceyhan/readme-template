@@ -4,11 +4,9 @@
 
 ![Logo](./logo.png)
 
- <!-- TITLE -->
+ <!-- HEADER ///////////////////////////////////////////////////////////// -->
 
 # ReadMe Template
-
-<!-- DESCRIPTION -->
 
 This is a blank README template for common GitHub repositiories.
 
@@ -18,9 +16,9 @@ This is a blank README template for common GitHub repositiories.
 [@webceyhan](https://twitter.com/webceyhan)
 
 <br>
-<!-- BUILT WITH TECHNOLOGIES -->
+<!-- BUILT WITH ///////////////////// -->
 
-## Built With
+### Built With
 
 -   [Node.js](https://nodejs.dev/)
 -   [TypeScript](https://www.typescriptlang.org)
@@ -29,7 +27,7 @@ This is a blank README template for common GitHub repositiories.
 -   [Bootstrap](https://getbootstrap.com)
 
 <br>
-<!-- PREREQUISITES -->
+<!-- PREREQUISITES /////////////////////////////////////////////////////// -->
 
 ## Prerequisites
 
@@ -40,7 +38,7 @@ and `npm` package manager first.
 > [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
 <br>
-<!-- INSTALLATION -->
+<!-- INSTALLATION //////////////////////////////////////////////////////// -->
 
 ## Installation
 
@@ -58,7 +56,7 @@ and `npm` package manager first.
     ```
 
 <br>
-<!-- USAGE EXAMPLES -->
+<!-- USAGE /////////////////////////////////////////////////////////////// -->
 
 ## Usage
 
@@ -75,43 +73,48 @@ npm run deploy      # deploy to server
 > Take a look at the other scripts in [`package.json`](https://github.com/webceyhan/readme-template/blob/master/package.json)
 
 <br>
-<!-- DEVELOPMENT -->
+<!-- DEVELOPMENT //////////////////// -->
 
 ### _Development_
+
+Start the development server to see changes immediately as you code.
 
 ```sh
 npm run dev
 ```
 
-<br>
-<!-- TESTING -->
+<!-- TESTING //////////////////////// -->
 
 ### _Testing_
+
+Run the available test suits to get a full coverage report.
 
 ```sh
 npm run test
 ```
 
-<br>
-<!-- BUILDING -->
+<!-- BUILDING /////////////////////// -->
 
 ### _Building_
+
+Build the application to deploy on production server.
 
 ```sh
 npm run build
 ```
 
-<br>
-<!-- DEPLOYMENT -->
+<!-- DEPLOYMENT ///////////////////// -->
 
 ### _Deployment_
+
+Deploy the built application to the production server.
 
 ```sh
 npm run deploy
 ```
 
 <br>
-<!-- ROADMAP -->
+<!-- ROADMAP ///////////////////////////////////////////////////////////// -->
 
 ## Roadmap
 
@@ -120,7 +123,7 @@ npm run deploy
 -   [ ] Merge and close pull-requests
 
 <br>
-<!-- REFERENCES -->
+<!-- REFERENCES ////////////////////////////////////////////////////////// -->
 
 ## References
 
