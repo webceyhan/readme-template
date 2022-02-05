@@ -24,7 +24,7 @@ You need to install the [Node.js](https://nodejs.dev/)
 and `npm` package manager first.
 
 > Recommended IDE:
-> [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+> [VSCode](https://code.visualstudio.com/)
 
 <br>
 <!-- INSTALLATION //////////////////////////////////////////////////////// -->
