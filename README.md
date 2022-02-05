@@ -37,7 +37,7 @@ and `npm` package manager first.
     ```
 2. Get inside the cloned project folder.
     ```sh
-    cd <project-name>
+    cd project-name
     ```
 3. Install NPM packages.
     ```sh
